@@ -3,6 +3,6 @@ Git Illustrative Sandbox
 
 Make a change between this line
 
-Bryan is Hungry
+I like eggs
 
 and this one
