@@ -2,7 +2,5 @@ Git Illustrative Sandbox
 ========================
 
 Make a change between this line
-
-Ken is REALLY hungry for eggs!!!
-
+Daniel is smelly and fat
 and this one
